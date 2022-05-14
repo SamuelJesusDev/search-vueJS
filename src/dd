@@ -1,0 +1,84 @@
+[
+    {
+        "id": 219,
+        "uid": "86401b00-2e0c-46a2-935b-768ecde8088a",
+        "password": "UtcQ5Lpzj8",
+        "first_name": "Whitney",
+        "last_name": "Von",
+        "username": "whitney.von",
+        "email": "whitney.von@email.com",
+        "avatar": "https://robohash.org/officiaipsumnumquam.png?size=300x300\u0026set=set1",
+        "gender": "Polygender",
+        "phone_number": "+420 413-754-3593 x8255",
+        "social_insurance_number": "244361895",
+        "date_of_birth": "1966-12-20",
+        "employment": {
+            "title": "Forward Marketing Associate",
+            "key_skill": "Organisation"
+        },
+        "address": {
+            "city": "Hellerberg",
+            "street_name": "Rempel Square",
+            "street_address": "700 Robel Stravenue",
+            "zip_code": "15063-7793",
+            "state": "Michigan",
+            "country": "United States",
+            "coordinates": {
+                "lat": 72.75957915030841,
+                "lng": 51.31534156884942
+            }
+        },
+        "credit_card": {
+            "cc_number": "4145930720452"
+        },
+        "subscription": {
+            "plan": "Silver",
+            "status": "Active",
+            "payment_method": "Visa checkout",
+            "term": "Payment in advance"
+        }
+    },
+    // -----------------------------------------------------------ddd
+    [
+        {
+            "id": 481,
+            "uid": "f340e353-7cfd-4334-8c70-def10862e6e8",
+            "strain": "XJ-13",
+            "cannabinoid_abbreviation": "CBCa",
+            "cannabinoid": "Cannabinolic Acid",
+            "terpene": "Borneol",
+            "medical_use": "anti-viral",
+            "health_benefit": "tranquilizing",
+            "category": "flower",
+            "type": "indica",
+            "buzzword": "wake and bake",
+            "brand": "marQaha"
+        },
+        {
+            "id": 2993,
+            "uid": "1fdace01-d759-4fd2-9d8a-b228baf55fe2",
+            "strain": "Green Queen",
+            "cannabinoid_abbreviation": "CBN",
+            "cannabinoid": "Tetrahydrocannabinol",
+            "terpene": "Menthol",
+            "medical_use": "anti-ischemic",
+            "health_benefit": "aids sleep",
+            "category": "concentrates",
+            "type": "sativa",
+            "buzzword": "cbd",
+            "brand": "Lord Jones"
+        },
+        {
+            "id": 8181,
+            "uid": "85125b85-f2e8-4113-b1ba-684eb84d06e3",
+            "strain": "Dutch Treat",
+            "cannabinoid_abbreviation": "CBC",
+            "cannabinoid": "Tetrahydrocannabinolic Acid",
+            "terpene": "Camphor",
+            "medical_use": "anti-septic",
+            "health_benefit": "prevents stress",
+            "category": "topicals",
+            "type": "hybrid",
+            "buzzword": "pound",
+            "brand": "OreKron"
+        }
